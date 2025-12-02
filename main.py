@@ -11,7 +11,7 @@ class GithubActionsCLI:
     def print_help(self) -> None:
         help_text = """
         Available Commands:
-          username              - Github Username
+          <username>              - Github Username
           help                  - Show this help message
           exit / quit           - Exit the program
         """
